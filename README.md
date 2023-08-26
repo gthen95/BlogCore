@@ -1,0 +1,2 @@
+# BlogCore
+Blog en .Net
